@@ -1,9 +1,44 @@
 body{
-  background: hotpink;
+  background: whitesmoke;
 }
 
 img{
   width: 100px;
   height: 100px;
   border-radius: 9999;
+}
+.api-section {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #81dfa2;
+}
+
+.api-section-2 {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #a9dfcb;
+}
+
+.api-section button {
+  float: right;
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: #eee;
+  border: 1px solid black;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.api-section-2 button {
+  float: right;
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: #eee;
+  border: 1px solid black;
+  border-radius: 3px;
+  cursor: pointer;
 }
